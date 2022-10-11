@@ -1,4 +1,4 @@
-## Official Repository UPT TIK Politeknik Negeri Banyuwangi
+## UPT TIK Politeknik Negeri Banyuwangi
 
 <!--
 
